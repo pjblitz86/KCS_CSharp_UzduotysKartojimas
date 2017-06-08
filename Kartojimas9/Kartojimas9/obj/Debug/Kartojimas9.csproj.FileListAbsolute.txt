@@ -1,0 +1,6 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas9\Kartojimas9\bin\Debug\Kartojimas9.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas9\Kartojimas9\bin\Debug\Kartojimas9.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas9\Kartojimas9\bin\Debug\Kartojimas9.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas9\Kartojimas9\obj\Debug\Kartojimas9.csprojResolveAssemblyReference.cache
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas9\Kartojimas9\obj\Debug\Kartojimas9.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas9\Kartojimas9\obj\Debug\Kartojimas9.pdb

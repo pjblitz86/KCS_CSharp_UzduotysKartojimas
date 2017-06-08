@@ -1,0 +1,8 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas2\Kartojimas2\bin\Debug\Kartojimas2.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas2\Kartojimas2\bin\Debug\Kartojimas2.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas2\Kartojimas2\bin\Debug\Kartojimas2.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas2\Kartojimas2\obj\Debug\Kartojimas2.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas2\Kartojimas2\obj\Debug\Kartojimas2.pdb
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\KartojimoUzduotys\Kartojimas2\Kartojimas2\bin\Debug\Kartojimas2.exe.config
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\KartojimoUzduotys\Kartojimas2\Kartojimas2\obj\Debug\Kartojimas2.exe
+C:\Users\PauliusJ\Documents\Visual Studio 2015\Projects\C#UzduotysKCS\KartojimoUzduotys\Kartojimas2\Kartojimas2\obj\Debug\Kartojimas2.pdb

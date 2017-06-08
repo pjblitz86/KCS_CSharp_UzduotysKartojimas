@@ -1,0 +1,5 @@
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas5\Kartojimas5\bin\Debug\Kartojimas5.exe.config
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas5\Kartojimas5\bin\Debug\Kartojimas5.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas5\Kartojimas5\bin\Debug\Kartojimas5.pdb
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas5\Kartojimas5\obj\Debug\Kartojimas5.exe
+c:\users\pauliusj\documents\visual studio 2015\Projects\Kartojimas5\Kartojimas5\obj\Debug\Kartojimas5.pdb
